@@ -17,13 +17,13 @@
 
 ---
 
-### 📊 GitHub Statistics
+<!-- ### 📊 GitHub Statistics
 <table>
   <tr>
     <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=mohitshahu108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/></td>
     <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshahu108&layout=compact&theme=tokyonight&hide_border=true" width="100%"/></td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -33,6 +33,7 @@
 ---
 
 ### 📫 Let's Connect!
-[Portfolio Website](https://yourportfolio.com) • [Email Me](mailto:your-email@example.com)
+<!-- [Portfolio Website](https://yourportfolio.com)  -->
+• [Email Me](mailto:shahumohit54@gmail.com)
 
 </div>
