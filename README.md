@@ -12,7 +12,7 @@
 
 ### 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,postman,linux" />
 </p>
 
 ---
@@ -26,9 +26,8 @@
 </table> -->
 
 ---
-
 ### 🐍 My Contributions
-<img src="https://raw.githubusercontent.com/mohitshahu108/mohitshahu108/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/mohitshahu108/mohitshahu108/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
